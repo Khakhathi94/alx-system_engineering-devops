@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /ctc/passwd /etc/hots
+cat /etc/passwd /etc/hots
